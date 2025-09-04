@@ -9,7 +9,7 @@ class Book {
     // Default constructor
     Book() {
         title = "Unknown";
-        author = "aditya";
+        author = "Unknown";
         price = 0.0;
     }
 
